@@ -1,2 +1,2 @@
 # GamblingGame
-🤔🤔 Guess a Random Number 🤔🤔
+🤔🤔 A Simple Browser Application using JavaScript and HTML 🤔🤔
