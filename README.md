@@ -1,2 +1,2 @@
 # GamblingGame
-🤔🤔 A Simple Browser Application using JavaScript and HTML 🤔🤔
+🤔🤔 A Simple Browser Application using JavaScript 🤔🤔
